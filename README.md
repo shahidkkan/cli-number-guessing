@@ -1,2 +1,2 @@
 # cli-number-guessing
-This is a cli based numbers gume
+This is a cli based numbers game
